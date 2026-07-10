@@ -1,105 +1,65 @@
-# Hi there! 👋 I'm Dhananjay A V
+# Hi, I'm Dhananjay A V 👋
 
-🎓 B.Tech Graduate in Artificial Intelligence & Data Science
-
-I'm passionate about building AI-powered applications that solve real-world problems using Machine Learning, Computer Vision, and Natural Language Processing.
+B.Tech graduate in Artificial Intelligence & Data Science with a strong interest in Machine Learning, Computer Vision, and Natural Language Processing. I enjoy building AI solutions that solve real-world problems and continuously expanding my knowledge in AI technologies.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Love building real-world AI projects
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🤖 Interested in Machine Learning, Computer Vision, and NLP
 - 🌱 Currently learning Generative AI and Large Language Models (LLMs)
 - 📍 Kerala, India
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages
+**Languages**
 
-- Python
-- SQL
-- C
-- C++
-- Java
-- R
+Python • SQL • C • C++ • Java • R
 
-### AI & Data Science
+**AI & Data Science**
 
-- Machine Learning
-- Computer Vision
-- Deep Learning
-- Natural Language Processing
-- YOLOv5
-- OpenCV
-- Scikit-learn
-- TensorFlow
-- Librosa
+Machine Learning • Deep Learning • Computer Vision • Natural Language Processing • YOLOv5 • TensorFlow • Scikit-learn • OpenCV • Librosa
 
-### Tools
+**Tools**
 
-- Git
-- GitHub
-- VS Code
-- Google Colab
-- Jupyter Notebook
+Git • GitHub • VS Code • Google Colab • Jupyter Notebook
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔥 Vision-Driven Fire Response System
-
-- AI-powered fire detection using YOLOv5
-- Arduino-based automatic suppression system
-- Presented at IEEE ICCCNT 2025
-
----
+An AI-powered fire detection and suppression system using YOLOv5 and Arduino. The project detects fire from a live camera feed and automatically aims a water pump toward the detected source. This work was presented at **IEEE ICCCNT 2025**.
 
 ### 🎧 Smart Emergency Sound Recognition Wearable
-
-- Real-time emergency sound detection
-- Deep Learning + Librosa
-- Assistive wearable for hearing-impaired users
-
----
+A deep learning–based wearable system that recognizes emergency sounds such as alarms, sirens, and horns in real time, helping improve situational awareness for people with hearing impairments.
 
 ### 📰 Daily News Digest
-
-- News classification and summarization
-- Naive Bayes
-- TF-IDF
-- PageRank
-- Gradio
+A web application that classifies and summarizes news articles using Naive Bayes, TF-IDF, PageRank, and Gradio, enabling users to quickly consume daily news.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-🏅 Research paper presented at IEEE ICCCNT 2025
-
-🏅 Top 10 – NASA Space Apps Challenge (Regional Round)
-
-🏅 NPTEL – Introduction to Machine Learning
+- 🏆 Research Paper Presented at **IEEE ICCCNT 2025**
+- 🏅 Top 10 – NASA Space Apps Challenge (Regional Round)
+- 📜 NPTEL – Introduction to Machine Learning
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
-📧 Email:
-dhananjayallannoor94@gmail.com
+- 📧 **Email:** <your-email@example.com>
+- 💼 **LinkedIn:** https://www.linkedin.com/in/dhananjay-av
 
-💼 LinkedIn:
-https://www.linkedin.com/in/dhananjay-av
+---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DJx8&show_icons=true&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DJx8&layout=compact&theme=github_dark)
-
-![](https://streak-stats.demolab.com?user=DJx8&theme=github-dark)
-
-![](https://komarev.com/ghpvc/?username=DJx8&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DJx8&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJx8&layout=compact&theme=github_dark&hide_border=true" />
+</p>
