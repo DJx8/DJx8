@@ -8,7 +8,7 @@ B.Tech graduate in Artificial Intelligence & Data Science with a strong interest
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science
 - 🤖 Interested in Machine Learning, Computer Vision, and NLP
-- 🌱 Currently learning Generative AI and Large Language Models (LLMs)
+- 🌱 Currently exploring Generative AI, Retrieval-Augmented Generation (RAG), and Large Language Model applications.
 - 📍 Kerala, India
 
 ---
