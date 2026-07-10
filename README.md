@@ -56,9 +56,3 @@ A web application that classifies and summarizes news articles using Naive Bayes
 - 💼 **LinkedIn:** https://www.linkedin.com/in/dhananjay-av
 
 ---
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=DJx8&show_icons=true&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DJx8&layout=compact&theme=github_dark)
